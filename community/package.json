@@ -14,7 +14,7 @@
         "babel-preset-env": "^1.7.0",
         "bcrypt-nodejs": "^0.0.3",
         "body-parser": "^1.17.2",
-        "express": "^4.15.3",
+        "express": "^4.17.3",
         "helmet": "^3.6.1",
         "marked": "^0.3.6",
         "mongoose": "4.10.8",
